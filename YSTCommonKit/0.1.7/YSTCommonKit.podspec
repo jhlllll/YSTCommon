@@ -30,7 +30,7 @@ s.source           = { :git => 'http://192.168.1.10:8181/ios-mobile/modules/YSTC
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'YSTCommonKit/Classes/**/**/*.{h,m,pch,c,mm}'
+s.source_files = 'YSTCommonKit/Classes/**/**/*.{h,m,pch}'
 
 #s.resource_bundles = {
 #'YSTCommonKit' => ['YSTCommonKit/Assets/*.{bundle,xcassets,imageset,png}','YSTCommonKit/Classes/**/*.{storyboard,xib,json,plist}']
